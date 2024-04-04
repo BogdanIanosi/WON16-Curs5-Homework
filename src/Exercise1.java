@@ -1,4 +1,4 @@
-public class Main {
+public class Exercise1 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};
         int sum = calculateSum(numbers);
@@ -13,4 +13,5 @@ public class Main {
         return sum;
     }
 }
+
 
